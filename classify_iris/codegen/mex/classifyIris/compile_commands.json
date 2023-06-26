@@ -1,0 +1,68 @@
+[
+  {
+    "directory": "/home/yuri/Matlab-Estudos/iris2/codegen/mex/classifyIris",
+    "command": "/usr/bin/gcc -fexceptions -fPIC -fno-omit-frame-pointer -pthread -D_GNU_SOURCE -DMATLAB_MEX_FILE  -O2 -fwrapv -DNDEBUG -std=c99 -I \".\" -I \"/iris2\" -I \"./interface\" -I \"/home/yuri/Matlab/extern/include\" -I \".\" -DMODEL=classifyIris_mex -c  classifyIris_data.c -o build/glnxa64/classifyIris_data.o",
+    "file": "classifyIris_data.c",
+    "output": "build/glnxa64/classifyIris_data.o"
+  },
+  {
+    "directory": "/home/yuri/Matlab-Estudos/iris2/codegen/mex/classifyIris",
+    "command": "/usr/bin/gcc -fexceptions -fPIC -fno-omit-frame-pointer -pthread -D_GNU_SOURCE -DMATLAB_MEX_FILE  -O2 -fwrapv -DNDEBUG -std=c99 -I \".\" -I \"/iris2\" -I \"./interface\" -I \"/home/yuri/Matlab/extern/include\" -I \".\" -DMODEL=classifyIris_mex -c  rt_nonfinite.c -o build/glnxa64/rt_nonfinite.o",
+    "file": "rt_nonfinite.c",
+    "output": "build/glnxa64/rt_nonfinite.o"
+  },
+  {
+    "directory": "/home/yuri/Matlab-Estudos/iris2/codegen/mex/classifyIris",
+    "command": "/usr/bin/gcc -fexceptions -fPIC -fno-omit-frame-pointer -pthread -D_GNU_SOURCE -DMATLAB_MEX_FILE  -O2 -fwrapv -DNDEBUG -std=c99 -I \".\" -I \"/iris2\" -I \"./interface\" -I \"/home/yuri/Matlab/extern/include\" -I \".\" -DMODEL=classifyIris_mex -c  classifyIris_initialize.c -o build/glnxa64/classifyIris_initialize.o",
+    "file": "classifyIris_initialize.c",
+    "output": "build/glnxa64/classifyIris_initialize.o"
+  },
+  {
+    "directory": "/home/yuri/Matlab-Estudos/iris2/codegen/mex/classifyIris",
+    "command": "/usr/bin/gcc -fexceptions -fPIC -fno-omit-frame-pointer -pthread -D_GNU_SOURCE -DMATLAB_MEX_FILE  -O2 -fwrapv -DNDEBUG -std=c99 -I \".\" -I \"/iris2\" -I \"./interface\" -I \"/home/yuri/Matlab/extern/include\" -I \".\" -DMODEL=classifyIris_mex -c  classifyIris_terminate.c -o build/glnxa64/classifyIris_terminate.o",
+    "file": "classifyIris_terminate.c",
+    "output": "build/glnxa64/classifyIris_terminate.o"
+  },
+  {
+    "directory": "/home/yuri/Matlab-Estudos/iris2/codegen/mex/classifyIris",
+    "command": "/usr/bin/gcc -fexceptions -fPIC -fno-omit-frame-pointer -pthread -D_GNU_SOURCE -DMATLAB_MEX_FILE  -O2 -fwrapv -DNDEBUG -std=c99 -I \".\" -I \"/iris2\" -I \"./interface\" -I \"/home/yuri/Matlab/extern/include\" -I \".\" -DMODEL=classifyIris_mex -c  classifyIris.c -o build/glnxa64/classifyIris.o",
+    "file": "classifyIris.c",
+    "output": "build/glnxa64/classifyIris.o"
+  },
+  {
+    "directory": "/home/yuri/Matlab-Estudos/iris2/codegen/mex/classifyIris",
+    "command": "/usr/bin/gcc -fexceptions -fPIC -fno-omit-frame-pointer -pthread -D_GNU_SOURCE -DMATLAB_MEX_FILE  -O2 -fwrapv -DNDEBUG -std=c99 -I \".\" -I \"/iris2\" -I \"./interface\" -I \"/home/yuri/Matlab/extern/include\" -I \".\" -DMODEL=classifyIris_mex -c  Linear.c -o build/glnxa64/Linear.o",
+    "file": "Linear.c",
+    "output": "build/glnxa64/Linear.o"
+  },
+  {
+    "directory": "/home/yuri/Matlab-Estudos/iris2/codegen/mex/classifyIris",
+    "command": "/usr/bin/gcc -fexceptions -fPIC -fno-omit-frame-pointer -pthread -D_GNU_SOURCE -DMATLAB_MEX_FILE  -O2 -fwrapv -DNDEBUG -std=c99 -I \".\" -I \"/iris2\" -I \"./interface\" -I \"/home/yuri/Matlab/extern/include\" -I \".\" -DMODEL=classifyIris_mex -c  eml_int_forloop_overflow_check.c -o build/glnxa64/eml_int_forloop_overflow_check.o",
+    "file": "eml_int_forloop_overflow_check.c",
+    "output": "build/glnxa64/eml_int_forloop_overflow_check.o"
+  },
+  {
+    "directory": "/home/yuri/Matlab-Estudos/iris2/codegen/mex/classifyIris",
+    "command": "/usr/bin/gcc -fexceptions -fPIC -fno-omit-frame-pointer -pthread -D_GNU_SOURCE -DMATLAB_MEX_FILE  -O2 -fwrapv -DNDEBUG -std=c99 -I \".\" -I \"/iris2\" -I \"./interface\" -I \"/home/yuri/Matlab/extern/include\" -I \".\" -DMODEL=classifyIris_mex -c  interface/_coder_classifyIris_api.c -o build/glnxa64/_coder_classifyIris_api.o",
+    "file": "interface/_coder_classifyIris_api.c",
+    "output": "build/glnxa64/_coder_classifyIris_api.o"
+  },
+  {
+    "directory": "/home/yuri/Matlab-Estudos/iris2/codegen/mex/classifyIris",
+    "command": "/usr/bin/gcc -fexceptions -fPIC -fno-omit-frame-pointer -pthread -D_GNU_SOURCE -DMATLAB_MEX_FILE  -O2 -fwrapv -DNDEBUG -std=c99 -I \".\" -I \"/iris2\" -I \"./interface\" -I \"/home/yuri/Matlab/extern/include\" -I \".\" -DMODEL=classifyIris_mex -c  interface/_coder_classifyIris_mex.c -o build/glnxa64/_coder_classifyIris_mex.o",
+    "file": "interface/_coder_classifyIris_mex.c",
+    "output": "build/glnxa64/_coder_classifyIris_mex.o"
+  },
+  {
+    "directory": "/home/yuri/Matlab-Estudos/iris2/codegen/mex/classifyIris",
+    "command": "/usr/bin/gcc -fexceptions -fPIC -fno-omit-frame-pointer -pthread -D_GNU_SOURCE -DMATLAB_MEX_FILE  -O2 -fwrapv -DNDEBUG -std=c99 -I \".\" -I \"/iris2\" -I \"./interface\" -I \"/home/yuri/Matlab/extern/include\" -I \".\" -DMODEL=classifyIris_mex -c  interface/_coder_classifyIris_info.c -o build/glnxa64/_coder_classifyIris_info.o",
+    "file": "interface/_coder_classifyIris_info.c",
+    "output": "build/glnxa64/_coder_classifyIris_info.o"
+  },
+  {
+    "directory": "/home/yuri/Matlab-Estudos/iris2/codegen/mex/classifyIris",
+    "command": "/usr/bin/gcc -fexceptions -fPIC -fno-omit-frame-pointer -pthread -D_GNU_SOURCE -DMATLAB_MEX_FILE  -O2 -fwrapv -DNDEBUG -std=c99 -I \".\" -I \"/iris2\" -I \"./interface\" -I \"/home/yuri/Matlab/extern/include\" -I \".\" -DMODEL=classifyIris_mex -c  /home/yuri/Matlab/extern/version/c_mexapi_version.c -o build/glnxa64/c_mexapi_version.o",
+    "file": "/home/yuri/Matlab/extern/version/c_mexapi_version.c",
+    "output": "build/glnxa64/c_mexapi_version.o"
+  }
+]
